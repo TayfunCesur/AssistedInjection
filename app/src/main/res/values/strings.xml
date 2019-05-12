@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AssistedInjection</string>
+    <string name="selected_civilization">Selected_civilization</string>
+</resources>
