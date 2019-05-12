@@ -1,5 +1,5 @@
 # Assisted Injection
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have your ever need pass to some parameter into your Viewmodel? But wait, your viewmodel have already some injections? So how can you do this ? 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have your ever need to pass some additional parameter into your Viewmodel? But wait, your viewmodel have already some injections? So how can you do this ? 
 
 ***Behold Assisted Injection!***
 
