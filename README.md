@@ -6,7 +6,7 @@
 <img height="500" align="right" src="https://firebasestorage.googleapis.com/v0/b/events-c4167.appspot.com/o/Assisted.gif?alt=media&token=fcfbbaeb-6e00-42c7-9d91-23c62aaa17b4"></img>
 
 ### Main use case of Assisted Injection
-Here is the main usage. As you can see on the right preview, we have two view model and second one needs some id of previous selected data. But the second viewmodel has already constructor with some injections like below.
+Here is the main usage. As you can see on the right preview, we have two viewmodel and the second one needs some id of previous selected data. But the second viewmodel has already constructor injections like below.
 
 ```
 class MainDetailViewModel @Inject constructor(  
